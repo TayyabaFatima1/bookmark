@@ -1,0 +1,304 @@
+nav{
+    
+    margin-top: 3rem;
+    padding-top: 1rem ;
+    padding-bottom: 1rem;
+    padding-left: 6rem;
+    justify-content: center;
+    align-content: center;
+}
+.booktext{
+    position: absolute;
+    padding: 5px;
+    top: 58px;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+a{
+    text-decoration: none;
+}
+.FPC{
+    display: flex;
+    gap: 3rem;
+    margin-left: 25rem;
+    position: absolute;
+    padding: 5px;
+    top: 50px;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.login{
+    border: 1rem;
+    color: white;
+    background-color: rgb(250 89 89);
+    padding-left: 1.75rem;
+    padding-right: 1.75rem;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-radius: 0.375rem;
+    position: absolute;
+    right: 5rem;
+    top: 55px;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.div1{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    margin-top: 7rem;
+}
+.div2{
+    align:right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:x-large;
+    margin-left: 70px;
+}
+.image1{
+    background-color: white;
+    display: flex;
+    height: 350px;
+    width: 500px;
+    padding: 30px;
+}
+.div3{
+    background-color: white;
+}
+.text2{
+    color: rgb(36, 42, 69);
+    font-weight: 400;
+    font-size: 3rem;
+    line-height: 1;
+}
+.text3{
+    opacity: 0.5;
+}
+.get_it_on_chrome{
+    position: relative;
+    opacity: 0.6;
+    background-color: blue;
+    color: white;
+    border: 1rem;
+    bottom: 3rem ;
+    padding-left: 1.75rem;
+    padding-right: 1.75rem;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-radius: 0.375rem;
+    position: absolute;
+    left: 5rem;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.get_it_on_firebox{
+    position: relative;
+    box-shadow: gray;
+    border: 1rem;
+    color: black ;
+    bottom: 3rem ;
+    padding-left: 1.75rem;
+    padding-right: 1.75rem;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-radius: 0.375rem;
+    position: absolute;
+    left: 16rem;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.two{
+    background-color: rgb(247,247,247);
+}
+.text4{
+    color: rgb(36, 42, 69);
+    margin-top: 60px;
+    padding-top: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    font-weight: 400;
+    justify-content: center;
+    align-items: center;
+}
+.text5{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    opacity: 0.5;
+    text-align: center;
+    width: 50%;
+    padding-left: 19rem;
+    padding-right: 16rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+}
+.image2{
+    display: flex;
+    height: 300px;
+    width: 500px;
+    padding-left: 80px;
+    padding-top: 70px ;
+}
+.div5_9{
+    display: flex;
+    flex-direction: row;
+}
+.div6{
+    flex-direction: row;
+    margin-top: 7rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 70px;
+}
+.text6{
+    color: rgb(36, 42, 69);
+    font-weight: 400;
+    line-height: 1;
+}
+.text7{
+    opacity: 0.6;
+}
+.more_info{
+    border: 1rem;
+    color: white;
+    background-color: rgb(82 103 223);
+    padding-left: 1.75rem;
+    padding-right: 1.75rem;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-radius: 0.375rem;
+    position: absolute;
+    top: 73rem;
+    right: 27.9rem;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.div7_9{
+    display: flex;
+    flex-direction: row;
+    padding-top: 7rem;
+}
+.div7{
+    margin-top: 9rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 70px;
+}
+.image3{
+    display: flex;
+    padding-right: 60px;
+    padding-left: 80px;
+    padding-top: 70px ;
+}
+.text8{
+    color: rgb(36, 42, 69);
+    font-weight: 400;
+    line-height: 1;
+}
+.text9{
+    opacity: 0.6;
+    
+}
+.more_infoo{
+    border: 1rem;
+    color: white;
+    background-color: rgb(82 103 223);
+    padding-left: 1.75rem;
+    padding-right: 1.75rem;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-radius: 0.375rem;
+    position: absolute;
+    top: 104rem;
+    left: 4.8rem;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+@media screen and (min-width:0px) and (max-width:480) {
+    .one{
+        flex-direction: column;
+    }
+    .two{
+        flex-direction: column;
+    }
+    .div1{
+        flex-direction: column;
+    }
+    .div2{
+        flex-direction: column;
+    }
+    .div3{
+        flex-direction: column;
+    }
+    .div5_9{
+        flex-direction: column;
+    }
+    .div6{
+        flex-direction: column;
+    }
+    .div7{
+        flex-direction: column;
+    }
+    .div7_9{
+        flex-direction: column;
+    }
+    .FPC{ 
+        flex-direction: column;
+    }
+    .get_it_on_chrome{
+        flex-direction: column;
+    }
+    .get_it_on_firebox{
+        flex-direction: column;
+    }
+    .image1{
+        flex-direction: column;
+    }
+    .image2{
+        flex-direction: column;
+    }
+    .image3{
+        flex-direction: column;
+    }
+    .login{
+        flex-direction: column;
+    }
+    .more_info{
+        flex-direction: column;
+    }
+    .more_infoo{
+        flex-direction: column;
+    }
+    .one{
+        flex-direction: column;
+    }
+    .text2{
+        flex-direction: column;
+    }
+    .text3{
+        flex-direction: column;
+    }
+    .text4{
+        flex-direction: column;
+    }
+    .text5{
+        flex-direction: column;
+    }
+    .text6{
+        flex-direction: column;
+    }
+    .text7{
+        flex-direction: column;
+    }
+    .text8{
+        flex-direction: column;
+    }
+    .text9{
+        flex-direction: column;
+    }
+    
+    
+}
